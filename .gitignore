@@ -1,0 +1,19 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+build/
+
+# Debug logs and images
+output.csv
+screen-*.png
+
+# Local
+# please don't change this file unless it is necessary to do so
+# anything that are not intended to go public should stay in "local"
+local/
